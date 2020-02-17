@@ -1,0 +1,2 @@
+include ':app', ':deletethis'
+rootProject.name='ThorineAccount'
